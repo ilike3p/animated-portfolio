@@ -12,7 +12,7 @@ const Navbar = () => {
                 <a href="https://www.facebook.com/tray.pearce"><img src="/facebook.png" alt="" /></a>
                 <a href="https://www.instagram.com/ilike3p/"><img src="/instagram.png" alt="" /></a>
                 <a href="https://www.linkedin.com/in/tray-pearce-04018a20/"><img src="/linkedin.png" alt="" /></a>
-                <a href="https://github.com/ilike3p"><img src="/github.png" alt="" /></a>
+                <a href="https://www.youtube.com/channel/UCF_kBFji1u95wd_5-Dx_APw"><img src="/github.png" alt="" /></a>
 
             </div>
         </div>
