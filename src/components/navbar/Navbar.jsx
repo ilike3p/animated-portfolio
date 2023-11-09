@@ -18,7 +18,6 @@ const Navbar = () => {
             {/* End Sidebar */}
         </div>
     );
-    )
 }
 
 export default Navbar
